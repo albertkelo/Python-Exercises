@@ -1,2 +1,2 @@
 # Python Exercises
-List of programs and functions written in Python as practice exercises.
+A collection of Jupyter Notebooks with exercises written in Python as practice.
