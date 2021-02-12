@@ -1,6 +1,7 @@
-# Python Exercises
-A collection of Jupyter Notebooks with exercises written in Python as practice.
+# Python Notebooks
+A collection of Jupyter Notebooks with different practical examples written in Python.
 
 ## Current list of notebooks
-- Vigenère cipher
-- Hexadecimal to Decimal converter
+- Vigenère cipher (vigenere_cipher.ipynb)
+- Hexadecimal to Decimal converter (hex_to_dec.ipynb)
+- International Space Station (ISS) tracker (ISS.ipynb)
