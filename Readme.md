@@ -1,5 +1,5 @@
 # Python Notebooks
-A collection of Jupyter Notebooks with different practical examples written in Python.
+A collection of Jupyter Notebooks and Python files with different practical examples written in Python.
 
 ## Current list of notebooks
 - Vigenère cipher (vigenere_cipher.ipynb)
